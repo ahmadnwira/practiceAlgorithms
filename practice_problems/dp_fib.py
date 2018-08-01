@@ -1,7 +1,6 @@
 computed = {}
 n = int(input())
 
-
 # up-bottom
 def fast_fib(n):
     if n in computed:
